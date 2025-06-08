@@ -1,1 +1,20 @@
-Sistema simples de cadastro de alunos desenvolvido em Python, utilizando programação procedural, para a disciplina de Programação de Computadores (P1) – 2025.
+#  Sistema de Cadastro de Alunos – Projeto Prático
+
+Este projeto foi desenvolvido como parte da disciplina Programação de Computadores (P1), ministrada pelo professor Jeofton Costa Melo.
+
+##  Integrantes
+
+- Nome: Mirella de Lima Brito  
+  RGM: 42878063
+
+- Nome: Maria Clara Lacerda Di Lorenzo 
+  RGM: 87654321
+
+##  Objetivo do Projeto
+
+Criar um sistema simples em  Python, utilizando apenas programação procedural, que permita:
+
+- Adicionar alunos;
+- Listar todos os alunos cadastrados;
+- Buscar alunos pela matrícula;
+- Calcular média de notas e determinar o status (Aprovado/Reprovado).
