@@ -7,7 +7,7 @@ Este projeto foi desenvolvido como parte da disciplina Programação de Computad
 - Nome: Mirella de Lima Brito  
   RGM: 42878063
 
-- Nome: Maria Clara Lacerda Di Lorenzo
+- Nome: Maria Clara Lacerda Di Lorenzo Pessoa
   
   RGM: 87654321
 
