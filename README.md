@@ -9,7 +9,7 @@ Este projeto foi desenvolvido como parte da disciplina Programação de Computad
 
 - Nome: Maria Clara Lacerda Di Lorenzo Pessoa
   
-  RGM: 87654321
+  RGM: 42807808
 
 ##  Objetivo do Projeto
 
