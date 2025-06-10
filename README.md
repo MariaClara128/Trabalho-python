@@ -21,4 +21,4 @@ Criar um sistema simples em  Python, utilizando apenas programação procedural,
 - Calcular média de notas e determinar o status (Aprovado/Reprovado).
   
 ## Apresentação do Projeto no YouTube
--
+- https://youtu.be/tPUBL0Vm_sY?si=MjUgVLC23v_XtCa-
